@@ -1,0 +1,6 @@
+2026-09-01 12:53:45,545 - INFO - ETL pipeline started.
+2026-09-01 12:53:45,579 - INFO - Data extracted successfully.
+2026-09-01 12:53:45,596 - INFO - Data transformed successfully.
+2026-09-01 12:53:45,678 - INFO - Database connection created.
+2026-09-01 12:53:45,800 - INFO - Data loaded successfully.
+2026-09-01 12:53:45,800 - INFO - ETL pipeline completed successfully.
